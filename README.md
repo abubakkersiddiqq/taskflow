@@ -184,7 +184,7 @@ Frontend runs on `http://localhost:5173`
 
 ## 👤 Author
 
-**[Your Name]**
+**[Abubakker Siddiq]**
 - GitHub: [@abubakkersiddiqq](https://github.com/abubakkersiddiqq)
 - LinkedIn: [Abubakker Siddiq](https://linkedin.com/in/abubakker-siddiq-715759231/)
 
