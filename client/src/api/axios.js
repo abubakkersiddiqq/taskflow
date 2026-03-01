@@ -11,24 +11,24 @@ API.interceptors.request.use((config) => {
 });
 
 export const authAPI = {
-  register: (data) => API.post("/auth/register", data),
-  login: (data) => API.post("/auth/login", data),
-  getMe: () => API.get("/auth/me"),
-  updateProfile: (data) => API.put("/auth/profile", data),
+  register: (data) => API.post("/api/auth/register", data),
+  login: (data) => API.post("/api/auth/login", data),
+  getMe: () => API.get("/api/auth/me"),
+  updateProfile: (data) => API.put("/api/auth/profile", data),
 };
 
 export const taskAPI = {
-  getAll: (params) => API.get("/tasks", { params }),
-  create: (data) => API.post("/tasks", data),
-  update: (id, data) => API.put(`/tasks/${id}`, data),
-  delete: (id) => API.delete(`/tasks/${id}`),
+  getAll: (params) => API.get("/api/tasks", { params }),
+  create: (data) => API.post("/api/tasks", data),
+  update: (id, data) => API.put(`/api/tasks/${id}`, data),
+  delete: (id) => API.delete(`/api/tasks/${id}`),
 };
 
 export const projectAPI = {
-  getAll: () => API.get("/projects"),
-  create: (data) => API.post("/projects", data),
-  update: (id, data) => API.put(`/projects/${id}`, data),
-  delete: (id) => API.delete(`/projects/${id}`),
+  getAll: () => API.get("/api/projects"),
+  create: (data) => API.post("/api/projects", data),
+  update: (id, data) => API.put(`/api/projects/${id}`, data),
+  delete: (id) => API.delete(`/api/projects/${id}`),
 };
 
 export default API;
