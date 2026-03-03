@@ -5,6 +5,9 @@ A full-stack personal task management web application built with the MERN stack.
 ![TaskFlow Dashboard](https://img.shields.io/badge/Stack-MERN-1d4ed8?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/Auth-JWT-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+[<image-card alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-TaskFlow-brightgreen" ></image-card>](https://taskflow-smoky-six.vercel.app/)
+[<image-card alt="Deployed on Vercel" src="https://img.shields.io/badge/Deployed-Vercel-000?style=flat&logo=vercel" ></image-card>](https://vercel.com)
+[<image-card alt="Deployed on Render" src="https://img.shields.io/badge/Deployed-Render-46E3B7?style=flat&logo=render" ></image-card>](https://render.com)
 
 ---
 
@@ -33,6 +36,11 @@ A full-stack personal task management web application built with the MERN stack.
 | Notifications | react-hot-toast |
 
 ---
+## 🚀 Live Demo
+
+- Frontend (Vercel): https://taskflow-smoky-six.vercel.app/
+- Backend API (Render): https://taskflow-1eow.onrender.com/
+(Note: Backend may take 30–60 seconds to wake up on first request if idle.)
 
 ## 📁 Project Structure
 
@@ -169,6 +177,7 @@ Frontend runs on `http://localhost:5173`
 |---|---|
 | ![Tasks](./screenshots/tasks.png) | ![Projects](./screenshots/projects.png) |
 
+[<image-card alt="Login" src="./screenshots/login.png" ></image-card>](https://taskflow-smoky-six.vercel.app/)
 ---
 
 ## 🗺️ Future Enhancements
@@ -187,6 +196,7 @@ Frontend runs on `http://localhost:5173`
 **[Abubakker Siddiq]**
 - GitHub: [@abubakkersiddiqq](https://github.com/abubakkersiddiqq)
 - LinkedIn: [Abubakker Siddiq](https://linkedin.com/in/abubakker-siddiq-715759231/)
+[<image-card alt="GitHub stars" src="https://img.shields.io/github/stars/abubakkersiddiqq/taskflow?style=social" ></image-card>](https://github.com/abubakkersiddiqq/taskflow)
 
 ---
 
