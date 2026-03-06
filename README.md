@@ -1,6 +1,6 @@
 # ⚡ TaskFlow — Task Management System
 
-A full-stack personal task management web application built with the MERN stack. TaskFlow allows users to register, log in, create custom projects, and manage tasks with priority and status tracking — all behind secure JWT authentication.
+A full-stack personal task management web application built with the MERN stack. TaskFlow allows users to register, log in, create custom projects, and manage tasks with priority and status tracking - all behind secure JWT authentication.
 
 ![TaskFlow Dashboard](https://img.shields.io/badge/Stack-MERN-1d4ed8?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/Auth-JWT-green?style=for-the-badge)
